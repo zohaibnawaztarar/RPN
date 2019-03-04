@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ which\ is\ Entry\ point\ for\ the\ program.\r\n\ Calls\ the\ menu\ to\ be\ displayed\r\n\r\n\ @param\ String[]\ Args\r\n\ return\ none\r\n
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ process()
+comment2.text=\r\n\ Process\ the\ user\ choice\ for\ menu.\r\n\r\n
+comment3.params=
+comment3.target=char\ menu()
+comment3.text=\r\n\ Display\ a\ menu,\ validate\ the\ user's\ input\ and\ return\ the\ choice\ they\ made\r\n\ \r\n\ @param\ \ \ none\r\n\ @return\ \ char\ x,\ the\ validated\ choice\ made\ by\ the\ user\r\n
+comment4.params=choice
+comment4.target=void\ processchoice(char)
+comment4.text=\r\n\ Process\ the\ choice\ made\ by\ the\ user\r\n\ \r\n\ @param\ \ \ choice\r\n\ @return\ \ none\r\n
+comment5.params=
+comment5.target=void\ getInstructions()
+comment5.text=\r\n\ Instructions\ that\ are\ displayed\ to\ the\ user\ about\ how\ RPN\ calculator\ works.\r\n\ \r\n\ @param\ \ none\r\n\ @return\ none\ \r\n
+comment6.params=
+comment6.target=void\ pressKey()
+comment6.text=\r\n\ Creates\ a\ 'pause'\ effect\ to\ allow\ details\ to\ remain\ on\ screen\r\n\ \r\n\ @param\ \ none\r\n\ @return\ none\ \r\n
+comment7.params=
+comment7.target=void\ add()
+comment7.text=\r\n\ When\ user\ choose\ add,\ take\ number\ and\ add\ to\ list\r\n\ \r\n\ @param\ \ \ none\r\n\ @return\ \ none\r\n
+comment8.params=
+comment8.target=void\ delete()
+numComments=9

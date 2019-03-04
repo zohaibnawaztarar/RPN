@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=List()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ List\r\n\ Create\ a\ head\r\n
+comment1.params=Number
+comment1.target=void\ createList(int)
+comment1.text=\r\n\ Add\ a\ new\ node\ at\ the\ start\ of\ a\ list\r\n\ \r\n\ @param\ \ data\ to\ add\r\n\ @return\ nothing\ \ \ \ \r\n
+comment2.params=number
+comment2.target=void\ addToList(int)
+comment2.text=\r\n\ Add\ a\ new\ node\ at\ the\ start\ of\ a\ list\r\n\ \r\n\ @param\ \ data\ to\ add\r\n\ @return\ nothing\ \ \ \ \r\n
+comment3.params=
+comment3.target=void\ printList()
+comment3.text=\r\n\ Print\ the\ list,\ starting\ at\ head\r\n\ \r\n\ @param\ \ none\r\n\ @return\ nothing\ \ \ \ \r\n
+comment4.params=
+comment4.target=ListNode\ deleteFromStart()
+comment4.text=\r\n\ This\ method\ deletes\ the\ number\ from\ top.\r\n\r\n\ @param\ \ none\r\n\ @return\ The\ return\ value\r\n
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stack()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Stack\r\n
+comment1.params=num1
+comment1.target=void\ push(int)
+comment1.text=\r\n\ Push\ data\ onto\ the\ stack\r\n\ \r\n\ @param\ \ \ \ \ \ \ data\ to\ be\ pushed\ onto\ the\ stack\r\n\ @return\ \ \ \ \ \ NONE\r\n
+comment2.params=
+comment2.target=int\ pop()
+comment2.text=\r\n\ Pop\ data\ from\ the\ top\ of\ the\ stack\r\n\ \r\n\ @param\ \ \ \ \ \ \ NONE\r\n\ @return\ \ \ \ \ \ Data\ node\ containing\ the\ actual\ data\ which\ was\ popped\r\n
+comment3.params=
+comment3.target=boolean\ isStackEmpty()
+comment3.text=\r\n\ Checks\ to\ see\ if\ the\ list/stack\ is\ empty\ or\ not.\r\n\ \r\n\ @param\ \ \ \ \ \ \ NONE\r\n\ @return\ \ \ \ \ \ true\ or\ false\r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\r\n\ Prints\ the\ list\ Nodes\r\n\r\n\ @param\ \ none\r\n\ @return\ none\r\n
+numComments=5
